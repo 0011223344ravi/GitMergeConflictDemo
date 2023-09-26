@@ -9,5 +9,5 @@ public class GitMergeConflictDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitMergeConflictDemoApplication.class, args);
     }
-
+ // demo PR 1
 }
