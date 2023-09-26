@@ -10,4 +10,5 @@ public class GitMergeConflictDemoApplication {
         SpringApplication.run(GitMergeConflictDemoApplication.class, args);
     }
  // demo PR 1
+    // demo PR 2
 }
